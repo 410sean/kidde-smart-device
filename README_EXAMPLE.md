@@ -55,5 +55,5 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [forum]: https://community.home-assistant.io/
 [license-shield]: https://img.shields.io/github/license/410sean/kidde-smart-device.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Sean%20McGovern-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/ludeeus/integration_blueprint.svg?style=for-the-badge
-[releases]: https://github.com/ludeeus/integration_blueprint/releases
+[releases-shield]: https://img.shields.io/github/release/410sean/kidde-smart-device.svg?style=for-the-badge
+[releases]: https://github.com/410sean/kidde-smart-device/releases
