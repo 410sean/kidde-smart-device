@@ -1,4 +1,4 @@
-# Integration Kidde (this code is not working, personal project)
+# Integration Kidde (this code is not working)
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
